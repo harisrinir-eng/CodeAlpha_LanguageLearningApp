@@ -182,17 +182,7 @@ npm run preview
 - [x] Layout is responsive across desktop, tablet, and mobile widths.
 - [x] `npm run build` completes successfully.
 
-## Screenshots
-
-Add project screenshots here after running the application.
-
-## Future Enhancements
-
-- Spaced-repetition scheduling for flashcards due for review.
-- Export/import of learning progress as a JSON file.
-- Additional languages and a larger content set per language.
-- Audio recording for pronunciation self-comparison.
-
 ## Author
 
-Add author information here.
+- **Name:** Hari Srini R
+- **Internship:** CodeAlpha App Development Internship
